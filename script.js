@@ -1,5 +1,5 @@
 window.addEventListener('load', () => {
-    const apiKey = 'f18cff0f8070a3b7b2535b532be195dd';
+    const apiKey = 'API';
     let city = 'Stockholm';
     let apiUrl = `https://api.openweathermap.org/data/2.5/weather?q=${city}&appid=${apiKey}&units=metric`;
 
